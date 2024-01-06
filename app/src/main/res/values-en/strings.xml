@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buy App</string>
+    <string name="compras_form_ejemplo">Product</string>
+    <string name="compras_form_agregar">Add purchase</string>
+    <string name="logo">Logo</string>
+    <string name="compras_form_eliminar">Delete purchase</string>
+    <string name="Config">Settings</string>
+    <string name="Ordenar">Order alphabetically</string>
+    <string name="Mostrar_primero">Show items to buy first</string>
+</resources>

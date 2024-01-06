@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Compra App</string>
+    <string name="compras_form_ejemplo">Producto</string>
+    <string name="compras_form_agregar" >Agregar compra</string>
+    <string name="logo">Logo</string>
+    <string name="compras_form_eliminar">Eliminar compra</string>
+    <string name="Config">Configuracion</string>
+    <string name="Ordenar">Ordenar alfabéticamente</string>
+    <string name="Mostrar_primero">Mostrar primero items por comprar</string>
+</resources>
